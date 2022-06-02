@@ -32,7 +32,7 @@
       "lowEndUI": true,
       "player": "shaka",
       "protocol": "dash",
-      "drm": "widevine",
+      "drm": "widevine"
     },
     "default": {
       "player": "shaka",
