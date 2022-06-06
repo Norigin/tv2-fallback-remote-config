@@ -41,7 +41,7 @@
       "kantarTrackingEnabled": false,
       "showEpg": true,
       "ignoreMinBufferTime": false,
-      "useAuth0": false,
+      "useAuth0": true,
       "rememberScrollPosition": true,
       "disableXlinkProcessing": false
     }
