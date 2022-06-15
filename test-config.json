@@ -20,7 +20,6 @@
       "lowEndUI": false,
       "debug": false,
       "muxTrackingEnabled": true,
-      "convivaTrackingEnabled": false,
       "kantarTrackingEnabled": true,
       "showEpg": true,
       "ignoreMinBufferTime": false,
