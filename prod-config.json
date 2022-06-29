@@ -25,7 +25,6 @@
   },
   "ADB": {
     "1": {
-      "lowEndUI": true,
       "player": "shaka",
       "protocol": "dash",
       "drm": "playready"
@@ -35,10 +34,10 @@
       "protocol": "dash",
       "drm": "widevine",
       "animation": true,
-      "ads": false,
+      "ads": true,
       "lowEndUI": false,
       "muxTrackingEnabled": true,
-      "kantarTrackingEnabled": false,
+      "kantarTrackingEnabled": true,
       "showEpg": true,
       "ignoreMinBufferTime": false,
       "useAuth0": true,
