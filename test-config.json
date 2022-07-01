@@ -31,7 +31,8 @@
       "player": "shaka",
       "protocol": "dash",
       "drm": "playready",
-      "animation": false
+      "animation": false,
+       "lowEndUI": false
      
     },
     "default": {
