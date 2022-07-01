@@ -32,7 +32,7 @@
       "protocol": "dash",
       "drm": "playready",
       "animation": false,
-       "lowEndUI": false
+       "lowEndUI": true
      
     },
     "default": {
