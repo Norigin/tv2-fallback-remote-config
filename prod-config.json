@@ -8,6 +8,9 @@
       "showEpg": false,
       "ads": true
     },
+    "2021": {
+      "ads": true
+    },
     "default": {
       "player": "shaka",
       "protocol": "dash",
