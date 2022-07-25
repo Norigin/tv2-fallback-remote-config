@@ -30,7 +30,8 @@
     "1": {
       "player": "shaka",
       "protocol": "dash",
-      "drm": "playready"
+      "drm": "playready",
+      "showEpg": false
     },
     "default": {
       "player": "shaka",
