@@ -31,8 +31,7 @@
       "player": "shaka",
       "protocol": "dash",
       "drm": "playready",
-      "showEpg": true,
-      "useAuth0": false
+      "showEpg": false
     },
     "default": {
       "player": "shaka",
