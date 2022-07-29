@@ -33,8 +33,7 @@
       "drm": "playready",
       "animation": true,
       "lowEndUI": false,
-      "showEpg": true,
-      "useAuth0": false
+      "showEpg": false
     },
     "default": {
       "player": "shaka",
