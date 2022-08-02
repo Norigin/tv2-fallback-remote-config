@@ -6,7 +6,7 @@
       "drm": "playready",
       "useAuth0": true,
       "kantarTrackingEnabled": false,
-      "rememberScrollPosition": true,
+      "rememberScrollPosition": true
     
     },
     "2021": {
