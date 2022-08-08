@@ -35,6 +35,9 @@
       "animation": true,
       "lowEndUI": true,
       "showEpg": false,
+      "ads": false,
+      "muxTrackingEnabled": false,
+      "kantarTrackingEnabled": false,      
       "showBackgroundImages": false
     },
     "default": {
