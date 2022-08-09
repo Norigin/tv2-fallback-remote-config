@@ -36,7 +36,7 @@
       "lowEndUI": true,
       "showEpg": false,
       "ads": false,
-      "muxTrackingEnabled": false,
+      "muxTrackingEnabled": true,
       "kantarTrackingEnabled": false,      
       "showBackgroundImages": false
     },
