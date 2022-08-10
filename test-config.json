@@ -33,11 +33,11 @@
       "protocol": "dash",
       "drm": "playready",
       "animation": true,
-      "lowEndUI": true,
-      "showEpg": false,
-      "ads": false,
+      "lowEndUI": false,
+      "showEpg": true,
+      "ads": true,
       "muxTrackingEnabled": true,
-      "kantarTrackingEnabled": false,      
+      "kantarTrackingEnabled": true,      
       "showBackgroundImages": false
     },
     "default": {
