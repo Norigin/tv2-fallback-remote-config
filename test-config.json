@@ -7,6 +7,7 @@
       "useAuth0": true,
       "kantarTrackingEnabled": false,
       "rememberScrollPosition": true,
+      "showBackgroundImages": false
        
     },
     "2021": {
