@@ -31,7 +31,11 @@
       "player": "shaka",
       "protocol": "dash",
       "drm": "playready",
-      "showEpg": true
+      "showEpg": false,
+      "animation": false,
+      "lowEndUI": true,
+      "kantarTrackingEnabled": false,      
+      "showBackgroundImages": false
     },
     "default": {
       "player": "shaka",
