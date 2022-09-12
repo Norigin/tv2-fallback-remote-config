@@ -5,7 +5,7 @@
       "protocol": "smooth",
       "drm": "playready",
       "useAuth0": true,
-      "kantarTrackingEnabled": false,
+      "kantarTrackingEnabled": true,
       "rememberScrollPosition": true,
       "showBackgroundImages": false
        
