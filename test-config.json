@@ -1,9 +1,9 @@
 {
   "Tizen": {
     "2016": {
-      "player": "shaka",
-      "protocol": "dash",
-      "drm": "widevine",
+      "player": "native",
+      "protocol": "smooth",
+      "drm": "playready",
       "useAuth0": true,
       "kantarTrackingEnabled": false,
       "rememberScrollPosition": true,
