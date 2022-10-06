@@ -35,7 +35,8 @@
       "drm": "playready",
       "animation": false,
       "lowEndUI": true,
-      "showEpg": false,   
+      "showEpg": false,
+      "kantarTrackingEnabled": false,
       "showBackgroundImages": false
     },
     "default": {
