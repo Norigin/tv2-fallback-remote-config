@@ -35,10 +35,7 @@
       "drm": "playready",
       "animation": false,
       "lowEndUI": true,
-      "showEpg": false,
-      "ads": true,
-      "muxTrackingEnabled": true,
-      "kantarTrackingEnabled": true,      
+      "showEpg": false,   
       "showBackgroundImages": false
     },
     "default": {
@@ -48,9 +45,11 @@
       "animation": true,
       "ads": true,
       "lowEndUI": false,
+      "debug": false,
       "muxTrackingEnabled": true,
       "kantarTrackingEnabled": true,
       "showEpg": true,
+      "showBackgroundImages": true,
       "ignoreMinBufferTime": false,
       "useAuth0": true,
       "rememberScrollPosition": true,
