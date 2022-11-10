@@ -7,8 +7,15 @@
       "useAuth0": true,
       "kantarTrackingEnabled": false,
       "rememberScrollPosition": true,
-      "showBackgroundImages": false
-       
+      "showBackgroundImages": false,
+       "feedbackAssetIds": [
+      1807630,
+      1807597,
+      1803150,
+      1803145,
+      733180
+    ]
+      
     },
     "2021": {
       "useAuth0": true
