@@ -56,11 +56,7 @@
       "ignoreMinBufferTime": false,
       "useAuth0": true,
       "rememberScrollPosition": true,
-      "disableXlinkProcessing": false,
-      "feedbackAssetIds": [
-        1109506,
-        1088297
-      ]
+      "disableXlinkProcessing": false
     }
   }
 }
