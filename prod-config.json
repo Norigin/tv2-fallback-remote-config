@@ -23,7 +23,11 @@
       "debug": false,
       "showEpg": true,
       "ignoreMinBufferTime": false,
-      "useAuth0": true
+      "useAuth0": true,
+      "feedbackAssetIds": [
+        1109506,
+        1088297
+      ]
     }
   },
   "ADB": {
@@ -52,7 +56,11 @@
       "ignoreMinBufferTime": false,
       "useAuth0": true,
       "rememberScrollPosition": true,
-      "disableXlinkProcessing": false
+      "disableXlinkProcessing": false,
+      "feedbackAssetIds": [
+        1109506,
+        1088297
+      ]
     }
   }
 }
