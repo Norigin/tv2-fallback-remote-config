@@ -80,7 +80,7 @@
       "debug": false,
       "muxTrackingEnabled": true,
       "kantarTrackingEnabled": true,
-      "showEpg": false,
+      "showEpg": true,
       "ignoreMinBufferTime": false,
       "useAuth0": true,
       "feedbackAssetIds": [
