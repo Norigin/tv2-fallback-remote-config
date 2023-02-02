@@ -84,7 +84,7 @@
       "showEpg": true,
       "ignoreMinBufferTime": false,
       "useAuth0": true,
-      "useYospace": false,
+      "useYospace": true,
       "feedbackAssetIds": [
         1804405,
         1802099,
@@ -119,6 +119,7 @@
       "ignoreMinBufferTime": false,
       "useAuth0": true,
       "rememberScrollPosition": true,
+      "useYospace": false,
       "disableXlinkProcessing": false
     }
   }
