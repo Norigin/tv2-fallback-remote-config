@@ -119,7 +119,7 @@
       "ignoreMinBufferTime": false,
       "useAuth0": true,
       "rememberScrollPosition": true,
-      "useYospace": false,
+      "useYospace": true,
       "disableXlinkProcessing": false
     }
   }
