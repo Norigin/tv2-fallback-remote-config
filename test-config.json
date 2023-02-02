@@ -44,7 +44,7 @@
       "useAuth0": true,
       "muxMinimumRebufferDuration": 1000,
       "muxSustainedRebufferThreshold": 3000,
-      "useYospace": false,
+      "useYospace": true,
       "feedbackAssetIds": [
         1804405,
         1802099,
@@ -84,6 +84,7 @@
       "showEpg": true,
       "ignoreMinBufferTime": false,
       "useAuth0": true,
+      "useYospace": false,
       "feedbackAssetIds": [
         1804405,
         1802099,
