@@ -1,0 +1,131 @@
+{
+  "Browser": {
+    "default": {
+      "player": "shaka",
+      "protocol": "dash",
+      "drm": "widevine",
+      "animation": true,
+      "ads": true,
+      "lowEndUI": false,
+      "debug": true,
+      "muxTrackingEnabled": true,
+      "kantarTrackingEnabled": true,
+      "showEpg": true,
+      "ignoreMinBufferTime": true,
+      "useAuth0": true,
+      "disableXlinkProcessing": true,
+      "feedbackAssetIds": [
+        1804405,
+        1802099,
+        1804440,
+        1791454
+      ]
+    }
+  },
+  "LG": {
+    "3": {
+      "player": "native",
+      "protocol": "smooth",
+      "drm": "playready",
+      "kantarTrackingEnabled": false
+    },
+    "default": {
+      "player": "shaka",
+      "protocol": "dash",
+      "drm": "widevine",
+      "animation": true,
+      "ads": true,
+      "lowEndUI": false,
+      "debug": false,
+      "muxTrackingEnabled": true,
+      "kantarTrackingEnabled": true,
+      "showEpg": false,
+      "ignoreMinBufferTime": false,
+      "useAuth0": true,
+      "muxMinimumRebufferDuration": 1000,
+      "muxSustainedRebufferThreshold": 3000,
+      "feedbackAssetIds": [
+        1804405,
+        1802099,
+        1804440,
+        1791454
+      ]
+    }
+  },
+  "Tizen": {
+    "2016": {
+      "player": "native",
+      "protocol": "smooth",
+      "drm": "playready",
+      "kantarTrackingEnabled": false,
+      "showEpg": false,
+      "ads": true
+    },
+    "2017": {
+      "player": "native",
+      "protocol": "smooth",
+      "drm": "playready"
+    },
+    "2020": {
+      "ignoreMinBufferTime": true
+    },
+    "2021": {
+      "ads": true
+    },
+    "default": {
+      "player": "shaka",
+      "protocol": "dash",
+      "drm": "widevine",
+      "animation": true,
+      "ads": false,
+      "lowEndUI": false,
+      "muxTrackingEnabled": true,
+      "kantarTrackingEnabled": true,
+      "debug": false,
+      "showEpg": true,
+      "ignoreMinBufferTime": false,
+      "useAuth0": true,
+      "feedbackAssetIds": [
+        1804405,
+        1802099,
+        1804440,
+        1791454
+      ]
+    }
+  },
+  "ADB": {
+    "1": {
+      "player": "shaka",
+      "protocol": "dash",
+      "drm": "playready",
+      "animation": false,
+      "lowEndUI": true,
+      "showEpg": false,
+      "kantarTrackingEnabled": false,      
+      "showBackgroundImages": false
+    },
+    "default": {
+      "player": "shaka",
+      "protocol": "dash",
+      "drm": "widevine",
+      "animation": true,
+      "ads": true,
+      "lowEndUI": false,
+      "debug": false,
+      "muxTrackingEnabled": true,
+      "kantarTrackingEnabled": true,
+      "showEpg": true,
+      "showBackgroundImages": true,
+      "ignoreMinBufferTime": false,
+      "useAuth0": true,
+      "rememberScrollPosition": true,
+      "disableXlinkProcessing": false,
+      "feedbackAssetIds": [
+        1804405,
+        1802099,
+        1804440,
+        1791454
+      ]
+    }
+  }
+}
