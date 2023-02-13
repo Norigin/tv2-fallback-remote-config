@@ -1,7 +1,7 @@
 {
   "Browser": {
     "default": {
-      "player": "native",
+      "player": "shaka",
       "protocol": "dash",
       "drm": "widevine",
       "animation": true,
@@ -30,7 +30,7 @@
       "kantarTrackingEnabled": false
     },
     "default": {
-      "player": "native",
+      "player": "shaka",
       "protocol": "dash",
       "drm": "widevine",
       "animation": true,
@@ -72,7 +72,7 @@
       "ignoreMinBufferTime": true
     },
     "default": {
-      "player": "shaka",
+      "player": "native",
       "protocol": "dash",
       "drm": "widevine",
       "animation": true,
