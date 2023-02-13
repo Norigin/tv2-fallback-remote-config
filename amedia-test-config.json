@@ -30,7 +30,7 @@
       "kantarTrackingEnabled": false
     },
     "default": {
-      "player": "shaka",
+      "player": "native",
       "protocol": "dash",
       "drm": "widevine",
       "animation": true,
