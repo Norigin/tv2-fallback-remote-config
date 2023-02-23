@@ -108,7 +108,7 @@
     "default": {
       "player": "shaka",
       "protocol": "dash",
-      "drm": "widevine",
+      "drm": "playready",
       "animation": true,
       "ads": true,
       "lowEndUI": false,
