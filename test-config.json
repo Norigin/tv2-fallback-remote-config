@@ -14,6 +14,10 @@
       "ignoreMinBufferTime": true,
       "useAuth0": false,
       "disableXlinkProcessing": true,
+      "playerAbrRestrictions": {
+  "maxWidth": 1080,
+  "maxFrameRate": 50
+},
       "feedbackAssetIds": [
         1804405,
         1802099,
