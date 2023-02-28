@@ -16,7 +16,7 @@
       "disableXlinkProcessing": true,
       "playerAbrRestrictions": {
   "maxHeight": 1000,     
-  "maxWidth": 1080,
+  "maxWidth": 1000,
   "maxFrameRate": 50
 },
       "feedbackAssetIds": [
