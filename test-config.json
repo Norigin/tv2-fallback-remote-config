@@ -13,7 +13,9 @@
       "showEpg": true,
       "ignoreMinBufferTime": true,
       "useAuth0": false,
-      "playerAbrRestrictions":25000000,
+      "playerAbrRestrictions": {
+  maxWidth: 1080
+}
       "disableXlinkProcessing": true,
       "feedbackAssetIds": [
         1804405,
