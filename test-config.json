@@ -15,8 +15,8 @@
       "useAuth0": false,
       "disableXlinkProcessing": true,
       "playerAbrRestrictions": {
-  "maxHeight": 1000,     
-  "maxWidth": 1000,
+  "maxHeight": 100,     
+  "maxWidth": 100,
   "maxFrameRate": 50
 },
       "feedbackAssetIds": [
