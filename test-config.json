@@ -14,11 +14,6 @@
       "ignoreMinBufferTime": true,
       "useAuth0": false,
       "disableXlinkProcessing": true,
-      "playerAbrRestrictions": {
-  "maxHeight": 100,     
-  "maxWidth": 100,
-  "maxFrameRate": 50
-},
       "feedbackAssetIds": [
         1804405,
         1802099,
@@ -90,10 +85,6 @@
       "ignoreMinBufferTime": false,
       "useAuth0": true,
       "useYospace": true,
-      "playerAbrRestrictions": {
-  "maxWidth": 1080,
-  "maxFrameRate": 50
-},
       "feedbackAssetIds": [
         1804405,
         1802099,
