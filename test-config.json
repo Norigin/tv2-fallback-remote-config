@@ -20,7 +20,7 @@
         1804440,
         1791454
       ],
-      "staticfallback": "use"
+      "staticfallback": "force"
     }
   },
   "LG": {
