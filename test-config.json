@@ -12,7 +12,7 @@
       "kantarTrackingEnabled": true,
       "showEpg": true,
       "ignoreMinBufferTime": true,
-      "useAuth0": false,
+      "useAuth0": true,
       "disableXlinkProcessing": true,
       "feedbackAssetIds": [
         1804405,
