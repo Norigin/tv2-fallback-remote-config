@@ -7,7 +7,7 @@
       "animation": true,
       "ads": true,
       "lowEndUI": false,
-      "debug": true,
+      "debug": false,
       "muxTrackingEnabled": true,
       "kantarTrackingEnabled": true,
       "showEpg": true,
