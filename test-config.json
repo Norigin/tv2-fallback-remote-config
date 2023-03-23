@@ -65,9 +65,9 @@
       "showBackgroundImages": false
     },
     "#2017": {
-      "player": "shaka",
-      "protocol": "dash",
-      "drm": "widevine"
+      "player": "native",
+      "protocol": "smooth",
+      "drm": "playready"
     },
     "2020": {
       "ignoreMinBufferTime": true
