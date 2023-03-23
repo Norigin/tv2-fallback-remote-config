@@ -64,7 +64,7 @@
       "rememberScrollPosition": true,
       "showBackgroundImages": false
     },
-    "2017": {
+    "#2017": {
       "player": "native",
       "protocol": "smooth",
       "drm": "playready"
