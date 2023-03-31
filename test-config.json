@@ -42,7 +42,7 @@
       "kantarTrackingEnabled": true,
       "showEpg": false,
       "ignoreMinBufferTime": false,
-      "useAuth0": true,
+      "useAuth0": false,
       "muxMinimumRebufferDuration": 1000,
       "muxSustainedRebufferThreshold": 3000,
       "useYospace": true,
