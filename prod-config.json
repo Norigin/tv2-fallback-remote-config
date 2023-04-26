@@ -77,7 +77,7 @@
       "protocol": "dash",
       "drm": "widevine",
       "animation": true,
-      "ads": false,
+      "ads": true,
       "lowEndUI": false,
       "muxTrackingEnabled": true,
       "kantarTrackingEnabled": true,
