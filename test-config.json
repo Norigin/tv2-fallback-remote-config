@@ -14,7 +14,6 @@
       "ignoreMinBufferTime": true,
       "useAuth0": false,
       "disableXlinkProcessing": true,
-      "loggedUserToast":"startup",
       "feedbackAssetIds": [
         1804405,
         1802099,
