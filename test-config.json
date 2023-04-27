@@ -122,6 +122,7 @@
       "useAuth0": true,
       "rememberScrollPosition": true,
       "useYospace": true,
+      "loggedUserToast":"startup",
       "disableXlinkProcessing": false
     }
   }
