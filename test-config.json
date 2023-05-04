@@ -122,7 +122,6 @@
       "rememberScrollPosition": true,
       "useYospace": true,
       "loggedUserToast":"startup",
-      "feedScrollThrottle": 300,
       "disableXlinkProcessing": false
     }
   }
