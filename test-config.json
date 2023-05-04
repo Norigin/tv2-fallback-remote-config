@@ -46,7 +46,6 @@
       "muxMinimumRebufferDuration": 1000,
       "muxSustainedRebufferThreshold": 3000,
       "useYospace": true,
-      "feedScrollThrottle": 300,
       "feedbackAssetIds": [
         1804405,
         1802099,
@@ -87,7 +86,6 @@
       "ignoreMinBufferTime": false,
       "useAuth0": true,
       "useYospace": true,
-      "feedScrollThrottle": 300,
       "feedbackAssetIds": [
         1804405,
         1802099,
@@ -124,6 +122,7 @@
       "rememberScrollPosition": true,
       "useYospace": true,
       "loggedUserToast":"startup",
+      "feedScrollThrottle": 300,
       "disableXlinkProcessing": false
     }
   }
