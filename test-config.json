@@ -46,7 +46,7 @@
       "muxMinimumRebufferDuration": 1000,
       "muxSustainedRebufferThreshold": 3000,
       "useYospace": true,
-      "staticFallback": "force",
+      "staticFallback": "use",
       "feedbackAssetIds": [
         1804405,
         1802099,
